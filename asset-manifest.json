@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/metrics-app/static/css/main.06509f59.css",
+    "main.js": "/metrics-app/static/js/main.cce62807.js",
+    "static/js/787.b418b39d.chunk.js": "/metrics-app/static/js/787.b418b39d.chunk.js",
+    "static/media/03.png": "/metrics-app/static/media/03.68c5a66198483b9fdadd.png",
+    "static/media/07.png": "/metrics-app/static/media/07.6db296ea16f979479f59.png",
+    "static/media/06.png": "/metrics-app/static/media/06.d5c300254a214c32428a.png",
+    "static/media/05.png": "/metrics-app/static/media/05.3953adf6354a1525b680.png",
+    "static/media/09.png": "/metrics-app/static/media/09.70a04085bd7cf38810d4.png",
+    "static/media/04.png": "/metrics-app/static/media/04.c0a9c2dd1fbcf521b8b0.png",
+    "index.html": "/metrics-app/index.html",
+    "main.06509f59.css.map": "/metrics-app/static/css/main.06509f59.css.map",
+    "main.cce62807.js.map": "/metrics-app/static/js/main.cce62807.js.map",
+    "787.b418b39d.chunk.js.map": "/metrics-app/static/js/787.b418b39d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06509f59.css",
+    "static/js/main.cce62807.js"
+  ]
+}
