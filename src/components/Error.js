@@ -5,7 +5,7 @@ const Error = () => (
     <div>
       <span>
         <span style={{ color: 'red' }}>Error! </span>
-        Page not Found
+        Page not Found try
       </span>
     </div>
   </>
