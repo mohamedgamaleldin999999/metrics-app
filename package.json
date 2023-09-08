@@ -1,32 +1,35 @@
 {
-  "name": "the-react-capstone",
+  "name": "my-app",
   "version": "0.1.0",
-  "homepage": "https://mohamedgamaleldin999999.github.io/metrics-app/",
   "private": true,
   "dependencies": {
-    "@reduxjs/toolkit": "^1.9.5",
-    "@testing-library/jest-dom": "^5.17.0",
+    "@craco/craco": "^7.0.0",
+    "@reduxjs/toolkit": "^1.9.1",
+    "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
-    "axios": "^1.5.0",
+    "axios": "^1.2.3",
+    "enzyme": "^3.11.0",
+    "enzyme-adapter-react-16": "^1.15.7",
+    "lodash": "^4.17.21",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-feather": "^2.0.10",
-    "react-redux": "^8.1.2",
-    "react-router-dom": "^6.15.0",
+    "react-redux": "^8.0.5",
+    "react-router-dom": "^6.7.0",
     "react-scripts": "5.0.1",
-    "redux": "^4.2.1",
-    "tailwindcss": "^3.3.3",
     "uniqid": "^5.4.0",
-    "web-vitals": "^2.1.4"
+    "web-vitals": "^2.1.4",
+    "react-test-renderer": "^18.2.0"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "cstart": "craco start",
+    "cbuild": "craco build",
+    "ctest": "craco test",
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": [
@@ -47,7 +50,24 @@
     ]
   },
   "devDependencies": {
-    "@craco/craco": "^7.1.0",
-    "gh-pages": "^6.0.0"
+    "@babel/core": "^7.20.12",
+    "@babel/eslint-parser": "^7.19.1",
+    "@babel/plugin-syntax-jsx": "^7.18.6",
+    "@babel/preset-env": "^7.20.2",
+    "@babel/preset-react": "^7.18.6",
+    "autoprefixer": "^9.8.8",
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb": "^18.2.1",
+    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-jsx-a11y": "^6.7.1",
+    "eslint-plugin-react": "^7.32.1",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "postcss": "^8.0.x",
+    "stylelint": "^13.13.1",
+    "stylelint-config-standard": "^21.0.0",
+    "stylelint-csstree-validator": "^1.9.0",
+    "stylelint-scss": "^3.21.0",
+    "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.2.17",
+    "redux-mock-store": "^1.5.4"
   }
 }
