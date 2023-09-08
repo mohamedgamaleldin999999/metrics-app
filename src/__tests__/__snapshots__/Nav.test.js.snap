@@ -1,0 +1,105 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Nav renders correctly 1`] = `
+<nav
+  className="w-full flex flex-row gap-0 pt-4 pb-4"
+>
+  <div
+    className="basis-2/6 pl-3 font-semibold text-lg"
+  >
+    <span
+      className=" flex justify-start items-center"
+    >
+      <svg
+        fill="none"
+        height={24}
+        stroke="currentColor"
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        strokeWidth="2"
+        viewBox="0 0 24 24"
+        width={24}
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <polyline
+          points="15 18 9 12 15 6"
+        />
+      </svg>
+      2023
+    </span>
+  </div>
+  <div
+    className="basis-2/6 text-center capitalize text-lg header ml-auto mr-auto"
+  >
+    <span
+      className=" whitespace-nowrap"
+    >
+      most views
+    </span>
+  </div>
+  <div
+    className="basis-2/6 pr-3 ml-auto"
+  >
+    <div
+      className="ml-auto mr-0 max-w-fit flex"
+    >
+      <span
+        className="pr-4"
+      >
+        <svg
+          fill="none"
+          height={24}
+          stroke="currentColor"
+          strokeLinecap="round"
+          strokeLinejoin="round"
+          strokeWidth="2"
+          viewBox="0 0 24 24"
+          width={24}
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <path
+            d="M12 1a3 3 0 0 0-3 3v8a3 3 0 0 0 6 0V4a3 3 0 0 0-3-3z"
+          />
+          <path
+            d="M19 10v2a7 7 0 0 1-14 0v-2"
+          />
+          <line
+            x1="12"
+            x2="12"
+            y1="19"
+            y2="23"
+          />
+          <line
+            x1="8"
+            x2="16"
+            y1="23"
+            y2="23"
+          />
+        </svg>
+      </span>
+      <span>
+        <svg
+          fill="none"
+          height={24}
+          stroke="currentColor"
+          strokeLinecap="round"
+          strokeLinejoin="round"
+          strokeWidth="2"
+          viewBox="0 0 24 24"
+          width={24}
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <circle
+            cx="12"
+            cy="12"
+            r="3"
+          />
+          <path
+            d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1 0 2.83 2 2 0 0 1-2.83 0l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-2 2 2 2 0 0 1-2-2v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83 0 2 2 0 0 1 0-2.83l.06-.06a1.65 1.65 0 0 0 .33-1.82 1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1-2-2 2 2 0 0 1 2-2h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 0-2.83 2 2 0 0 1 2.83 0l.06.06a1.65 1.65 0 0 0 1.82.33H9a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 2-2 2 2 0 0 1 2 2v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 0 2 2 0 0 1 0 2.83l-.06.06a1.65 1.65 0 0 0-.33 1.82V9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 2 2 2 2 0 0 1-2 2h-.09a1.65 1.65 0 0 0-1.51 1z"
+          />
+        </svg>
+      </span>
+    </div>
+  </div>
+</nav>
+`;

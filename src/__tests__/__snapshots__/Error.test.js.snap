@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Error renders correctly 1`] = `
+<div>
+  <span>
+    <span
+      style={
+        Object {
+          "color": "red",
+        }
+      }
+    >
+      Error! 
+    </span>
+    Page not Found
+  </span>
+</div>
+`;
