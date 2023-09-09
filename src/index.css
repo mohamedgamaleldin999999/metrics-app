@@ -1,0 +1,22 @@
+/* ./src/index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0;
+  font-family: gill sans, serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  overflow-x: hidden;
+  position: relative;
+  background-color: rgba(252, 81, 147, 255);
+}
+
+* {
+  @apply p-0;
+}
+
+header {
+  font-family: lato, serif;
+}
