@@ -62,7 +62,7 @@ one page for the item details; in the example, the detail page for Czech Republi
 
 ### Key Features <a name="key-features"></a>
 
-> Key features of the application.
+> Key features of this application.
 
 - **[Retrive list of countries]**
 - **[Get weather data based on the selected country]**
