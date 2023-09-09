@@ -73,7 +73,7 @@ one page for the item details; in the example, the detail page for Czech Republi
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link]()
+- [Live Demo Link](https://metrics-app-wxkv.onrender.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
