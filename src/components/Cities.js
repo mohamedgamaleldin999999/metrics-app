@@ -57,7 +57,7 @@ const Cities = () => {
       <div className=" w-full">
         <span className=" ml-2 text-gray-500s font-medium">
           Zones BY Cities
-          <span className=" font-thin ml-2">(Sroll Right)</span>
+          <span className=" font-thin ml-2">(Sroll Right & choose a city)</span>
         </span>
         <CitiesList zonesData={zones} />
       </div>
