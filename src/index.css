@@ -5,7 +5,7 @@
 
 body {
   margin: 0;
-  font-family: gill sans;
+  font-family: gill sans, serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   overflow-x: hidden;
@@ -18,5 +18,5 @@ body {
 }
 
 header {
-  font-family: lato;
+  font-family: lato, serif;
 }
