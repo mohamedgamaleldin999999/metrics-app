@@ -11,10 +11,10 @@ describe('CitiesList component', () => {
   it('renders without errors', () => {
     const zonesData = [
       {
-        name: 'City1', country: 'Country1', lat: 1, lon: 1
+        name: 'City1', country: 'Country1', lat: 1, lon: 1,
       },
       {
-        name: 'City2', country: 'Country2', lat: 2, lon: 2
+        name: 'City2', country: 'Country2', lat: 2, lon: 2,
       },
     ];
 
@@ -25,10 +25,10 @@ describe('CitiesList component', () => {
   it('renders cities correctly', () => {
     const zonesData = [
       {
-        name: 'City1', country: 'Country1', lat: 1, lon: 1
+        name: 'City1', country: 'Country1', lat: 1, lon: 1,
       },
       {
-        name: 'City2', country: 'Country2', lat: 2, lon: 2
+        name: 'City2', country: 'Country2', lat: 2, lon: 2,
       },
     ];
 
